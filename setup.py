@@ -10,7 +10,6 @@ setuptools.setup(
     version='0.0.1',
     packages=[
         'pyeventroute',
-        'pyeventroute.endpoints',
     ],
     # from here all is optional
     description='pyeventroute helps you route events to loggers or to anyother place',
