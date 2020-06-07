@@ -27,7 +27,7 @@ setuptools.setup(
     ],
     url="https://veltzer.github.io/pyeventroute",
     download_url="https://github.com/veltzer/pyeventroute",
-    # license="MIT",
+    license="MIT",
     platforms=[
         'python3',
     ],
