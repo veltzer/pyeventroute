@@ -1,5 +1,4 @@
 
-
 # *pyeventroute* project by Mark Veltzer
 
 ![PyPI - Status](https://img.shields.io/pypi/status/pyeventroute)
@@ -17,7 +16,7 @@
 ![Downloads](https://pepy.tech/badge/pyeventroute/month)
 ![Downloads](https://pepy.tech/badge/pyeventroute/week)
 
+
 pyeventroute helps you route events to loggers or to any other place
 
-project website: https://veltzer.github.io/pyeventroute
-
+project website: <https://veltzer.github.io/pyeventroute>
