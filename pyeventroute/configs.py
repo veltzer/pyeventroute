@@ -3,7 +3,7 @@ All configurations for pyeventroute
 """
 
 
-from pytconf.config import Config
+from pytconf import Config
 
 
 class ConfigRoute(Config):

@@ -12,5 +12,6 @@ project website: https://veltzer.github.io/pyeventroute
 
 author: Mark Veltzer
 
-version: 0.0.3
+version: 0.0.4
+
 
