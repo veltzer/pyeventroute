@@ -17,8 +17,11 @@
 ![Downloads](https://pepy.tech/badge/pyeventroute/week)
 
 
+
 pyeventroute helps you route events to loggers or to any other place
 
 project website: <https://veltzer.github.io/pyeventroute>
+
+chat with me at [![gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veltzer/mark.veltzer)
 
 
