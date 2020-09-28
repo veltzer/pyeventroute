@@ -16,6 +16,8 @@
 ![Downloads](https://pepy.tech/badge/pyeventroute/month)
 ![Downloads](https://pepy.tech/badge/pyeventroute/week)
 
+[![Known Vulnerabilities](https://snyk.io/test/github/veltzer/pyeventroute/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/veltzer/pyeventroute?targetFile=requirements.txt)
+
 
 
 pyeventroute helps you route events to loggers or to any other place
