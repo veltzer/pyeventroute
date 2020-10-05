@@ -19,10 +19,13 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/veltzer/pyeventroute/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/veltzer/pyeventroute?targetFile=requirements.txt)
 
 
+Actions
+
+![build](https://github.com/veltzer/pyeventroute/workflows/build/badge.svg)
 
 pyeventroute helps you route events to loggers or to any other place
 
-project website: <https://veltzer.github.io/pyeventroute>
+project website: https://veltzer.github.io/pyeventroute
 
 chat with me at [![gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veltzer/mark.veltzer)
 
