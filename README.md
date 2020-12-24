@@ -12,11 +12,6 @@
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/pyeventroute)
 
 ![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
-![Downloads](https://pepy.tech/badge/pyeventroute)
-![Downloads](https://pepy.tech/badge/pyeventroute/month)
-![Downloads](https://pepy.tech/badge/pyeventroute/week)
-
-[![Known Vulnerabilities](https://snyk.io/test/github/veltzer/pyeventroute/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/veltzer/pyeventroute?targetFile=requirements.txt)
 
 
 Actions
