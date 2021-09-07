@@ -14,7 +14,6 @@
 ![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
 
 ![build](https://github.com/veltzer/pyeventroute/workflows/build/badge.svg)
-
 pyeventroute helps you route events to loggers or to any other place
 
 project website: https://veltzer.github.io/pyeventroute
