@@ -1,4 +1,3 @@
-
 # *pyeventroute* project by Mark Veltzer
 
 ![PyPI - Status](https://img.shields.io/pypi/status/pyeventroute)
