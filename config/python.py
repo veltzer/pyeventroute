@@ -2,10 +2,15 @@ import config.project
 
 package_name = config.project.project_name
 
+dev_requires = [
+    "pyclassifiers",
+    "pypitools",
+    "pydmt",
+    "Sphinx",
+]
 install_requires = [
     "pytconf",
 ]
-
 test_requires = [
     "pylint",
     "pytest",
@@ -15,13 +20,7 @@ test_requires = [
     "pymakehelper",
 ]
 
-dev_requires = [
-    "pyclassifiers",
-    "pypitools",
-    "pydmt",
-    "Sphinx",
-]
+python_requires = ">=3.10"
 
-python_requires = ">=3.9"
-test_os = ["ubuntu-20.04"]
-test_python = ["3.9"]
+test_os = ["ubuntu-22.04"]
+test_python = ["3.10"]
