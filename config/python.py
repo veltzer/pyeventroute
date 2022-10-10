@@ -1,7 +1,5 @@
 dev_requires = [
-    "pyclassifiers",
     "pypitools",
-    "Sphinx",
 ]
 install_requires = [
     "pytconf",
@@ -9,6 +7,8 @@ install_requires = [
 make_requires = [
     "pymakehelper",
     "pydmt",
+    "pyclassifiers",
+    "Sphinx",
 ]
 test_requires = [
     "pylint",
