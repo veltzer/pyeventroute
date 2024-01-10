@@ -1,17 +1,18 @@
 from typing import List
 
 
-config_requires: List[str] = []
 dev_requires: List[str] = [
     "pypitools",
+]
+config_requires: List[str] = [
+    "pyclassifiers",
 ]
 install_requires: List[str] = [
     "pytconf",
 ]
 make_requires: List[str] = [
-    "pymakehelper",
     "pydmt",
-    "pyclassifiers",
+    "pymakehelper",
 ]
 test_requires: List[str] = [
     "pylint",
