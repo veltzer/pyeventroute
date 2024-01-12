@@ -10,7 +10,7 @@ config_requires: List[str] = [
 install_requires: List[str] = [
     "pytconf",
 ]
-make_requires: List[str] = [
+build_requires: List[str] = [
     "pydmt",
     "pymakehelper",
 ]
@@ -22,4 +22,4 @@ test_requires: List[str] = [
     "flake8",
     "mypy",
 ]
-requires = config_requires + install_requires + make_requires + test_requires
+requires = config_requires + install_requires + build_requires + test_requires
