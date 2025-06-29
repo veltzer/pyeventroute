@@ -7,8 +7,10 @@ install_requires: list[str] = [
     "pytconf",
 ]
 build_requires: list[str] = [
+    "hatch",
     "pydmt",
     "pymakehelper",
+    "pycmdtools",
 ]
 test_requires: list[str] = [
     "pylint",
