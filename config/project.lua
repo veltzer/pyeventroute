@@ -4,3 +4,4 @@ KEYWORDS = {
     "event",
     "logging",
 }
+PYPI = true
