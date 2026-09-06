@@ -1,3 +1,6 @@
+<!-- This file is generated. Do not edit it by hand: your changes will be
+     lost on the next build. Edit the template it is rendered from, or the
+     values that template reads, and build again. -->
 # *pyeventroute* project by Mark Veltzer
 
 description: pyeventroute helps you route events to loggers or to any other place
